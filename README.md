@@ -5,4 +5,4 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth)
 
 ## 3. Profile View Counter
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dnth)
+<img src=https://komarev.com/ghpvc/?username = dnth/>
