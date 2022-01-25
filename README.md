@@ -1,4 +1,5 @@
 Hi there! I'm Dickson Neoh 😀
+![](https://komarev.com/ghpvc/?username=dnth)
 
 ## 1. GitHub Stats
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true)
@@ -6,5 +7,3 @@ Hi there! I'm Dickson Neoh 😀
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth)
 
-## 3. Profile View Counter
-![](https://komarev.com/ghpvc/?username=dnth)
