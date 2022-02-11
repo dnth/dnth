@@ -1,9 +1,9 @@
 # Hi there! I'm Dickson Neoh 👋
 
-![Dickson's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dnth&theme=prussian&hide_border=true&area=true)
-| ![Dickson's github stats](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&theme=prussian)             | ![Dickson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnth&theme=radical)                                                                                                           |
+![Dickson's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dnth&theme=radical&hide_border=true&area=true)
+| ![Dickson's github stats](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&theme=radical)             | ![Dickson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnth&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth&langs_count=8&theme=prussian&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 # Connect with me
 <p align="left">
