@@ -75,7 +75,7 @@
       src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar-square.svg"
       alt="adam pithewan" height="35" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Dickson-Neoh" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate-square.svg"
+      src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4"
       alt="adam pithewan" height="35" width="40" /></a>
  <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
