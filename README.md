@@ -44,6 +44,13 @@
       height="35" /></a>
  </p>
  
+ ## Hardware 
+<p align="left">
+      <a href="https://www.arduino.cc/" target="blank"><img align="center" 
+      src="http://content.arduino.cc/brand/arduino-color.svg" 
+      height="35" /></a>
+      &nbsp;
+</p>
  
 
  
