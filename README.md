@@ -5,6 +5,14 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth&langs_count=8&theme=prussian&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) |
 
+# Skills
+## Deep Learning
+
+## Database
+
+## Front end
+
+
 # Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/dickson-neoh-3a6984b8/" target="blank"><img align="center"
