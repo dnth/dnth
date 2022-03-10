@@ -32,7 +32,7 @@
       height="35" /></a>
       &nbsp;
       <a href="https://developer.nvidia.com/tensorrt" target="blank"><img align="center" 
-      src=" https://developer.nvidia.com/blog/wp-content/uploads/2020/04/tensorrt-logo-625x290.png" 
+      src="https://developer.nvidia.com/blog/wp-content/uploads/2020/04/tensorrt-logo-625x290.png" 
       height="35" /></a>
  </p>
  
