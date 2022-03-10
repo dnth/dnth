@@ -11,15 +11,12 @@
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/fastai/master/docs_src/images/company_logo_big.png"
       height="35" width="40" /></a>
-      
 <a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg"
       height="35" /></a>
-      
 <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
       height="35" /></a>
-
 <a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
       height="35" /></a>
@@ -31,7 +28,6 @@
 <a href="https://github.com/apache/spark" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg"
       height="35"/></a>
-
 <a href="https://firebase.google.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"
       height="35"/></a>
