@@ -75,7 +75,7 @@
       &nbsp;
       <a href="https://www.tensorflow.org/lite" target="blank"><img align="center" 
       src="https://miro.medium.com/max/1200/1*xjsEPItNww_khr8o2me-xg.png" 
-      height="35" /></a>
+      height="45" /></a>
  </p>
  
  ## Hardware 
