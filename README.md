@@ -116,6 +116,10 @@
       src="https://raw.githubusercontent.com/auchenberg/vscode-logo-svg/master/vscode-logo.svg" 
       height="35" /></a>
       &nbsp;
+      <a href="https://www.docker.com/" target="blank"><img align="center" 
+      src="https://s3-us-west-1.amazonaws.com/umbrella-blog-uploads/wp-content/uploads/2016/03/docker-logo.jpg" 
+      height="35" /></a>
+      &nbsp;
  </p>
 
 
