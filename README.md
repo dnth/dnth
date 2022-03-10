@@ -55,7 +55,7 @@
       height="35" /></a>
       &nbsp;
       <a href="https://www.intel.com/content/www/us/en/developer/tools/neural-compute-stick/overview.html" target="blank"><img align="center" 
-      src="https://img.favpng.com/16/11/4/intel-logo-business-png-favpng-zd68aesVfMgCvtyyxaa9pTbJJ.jpg" 
+      src="https://pngimg.com/uploads/intel/intel_PNG12.png" 
       height="35" /></a>
       &nbsp;
 </p>
