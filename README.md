@@ -54,6 +54,10 @@
       src="http://mastersofmedia.hum.uva.nl/wp-content/uploads/2014/09/raspberry_logo.png" 
       height="35" /></a>
       &nbsp;
+      <a href="https://www.intel.com/content/www/us/en/developer/tools/neural-compute-stick/overview.html" target="blank"><img align="center" 
+      src="https://img.favpng.com/16/11/4/intel-logo-business-png-favpng-zd68aesVfMgCvtyyxaa9pTbJJ.jpg" 
+      height="35" /></a>
+      &nbsp;
 </p>
  
 
