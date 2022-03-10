@@ -41,6 +41,15 @@
 
 ### Front end
 
+<p align="left">
+<a href="https://github.com/flutter/flutter" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"
+      height="35" /></a>
+&nbsp;
+ </p>
+
+
+
 
 # Connect with me
 <p align="left">
