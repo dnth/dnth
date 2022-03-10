@@ -9,7 +9,7 @@
 ## Deep Learning
 <p align="left">
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/dnth/fastai/master/docs_src/images/company_logo_big.png"
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fdatascienceweek.org%2Fwp-content%2Fuploads%2F2019%2F12%2Ffast.ai_.jpg%3Fssl%3D1&f=1&nofb=1"
       height="35" width="40" /></a>
 &nbsp;
 <a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
