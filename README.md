@@ -16,9 +16,9 @@
    <a href="https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="adampithewan" height="30" width="40" /></a>
-  <a href="https://www.dicksonneoh.com" target="blank"><img align="center"
+  <a href="https://dicksonneoh.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="80" /></a>
 </p>
 
 
