@@ -30,10 +30,11 @@
 <p align="left">
 <a href="https://github.com/apache/spark" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg"
-      height="35"/></a>
+      height="35" /></a>
+&nbsp;
 <a href="https://firebase.google.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"
-      height="35"/></a>
+      height="35" /></a>
  </p>
 
 
