@@ -23,6 +23,16 @@
 <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
       height="35" /></a>
+</p>
+
+## Hyperparameter Optimization
+<p align="left">
+      <a href="https://optuna.org/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png"
+      height="35" /></a>
+
+</p>
+ 
 
 
 ## Model Deployment
