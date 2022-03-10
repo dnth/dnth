@@ -49,6 +49,10 @@
       <a href="https://www.comet.ml/site/" target="blank"><img align="center"
       src="https://avatars.githubusercontent.com/u/31487821?s=200&v=4"
       height="35" /></a>
+      &nbsp;
+      <a href="https://www.tensorflow.org/tensorboard/" target="blank"><img align="center"
+      src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png"
+      height="35" /></a>
 </p>
 
 
