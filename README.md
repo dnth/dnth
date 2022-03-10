@@ -178,7 +178,7 @@
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="25" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar-square.svg"
+      src="https://www.ziyen.com/wp-content/uploads/2020/11/Google-Scholar-300x150.png"
       alt="adam pithewan" height="35" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Dickson-Neoh" target="blank"><img align="center"
       src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4"
