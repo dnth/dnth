@@ -105,12 +105,10 @@
       <a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
             height="35" /></a>
-      
       &nbsp;
       <a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
             height="35" /></a>
-      
       &nbsp;
       <a href="https://github.com/heartexlabs/label-studio" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/heartexlabs/label-studio/master/images/ls_github_header.png"
