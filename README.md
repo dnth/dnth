@@ -39,6 +39,10 @@
 <a href="https://github.com/grafana/grafana" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg"
       height="35" /></a>
+&nbsp;
+<a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
+      height="35" /></a>
  </p>
 
 
