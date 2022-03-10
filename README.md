@@ -43,6 +43,10 @@
       src="https://raw.githubusercontent.com/dnth/logos/master/logos/jupyter.svg" 
       height="35" /></a>
       &nbsp;
+      <a href="https://code.visualstudio.com/" target="blank"><img align="center" 
+      src="https://raw.githubusercontent.com/auchenberg/vscode-logo-svg/master/vscode-logo.svg" 
+      height="35" /></a>
+      &nbsp;
  </p>
 
 
