@@ -157,7 +157,7 @@
 
 
 
-## Front end
+## Frontend
 
 <p align="left">
 <a href="https://github.com/flutter/flutter" target="blank"><img align="center"
@@ -165,7 +165,7 @@
       height="35" /></a>
 &nbsp;
 <a href="https://github.com/kivy/kivy" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png"
+      src="https://cdn-images-1.medium.com/max/1200/1*NfDLXFFLp79soRwo7nPifQ.png"
       height="35" /></a>
  </p>
 
