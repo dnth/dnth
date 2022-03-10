@@ -9,8 +9,8 @@
 ### Deep Learning
 <p align="left">
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
-      alt="adampithewan" height="35" width="120" /></a>
+      src="https://raw.githubusercontent.com/dnth/fastai/master/docs_src/images/company_logo_big.png"
+      height="35" width="120" /></a>
  </p>
 
 ### Database
