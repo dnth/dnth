@@ -35,11 +35,17 @@
  
 ## Software Engineering
 <p align="left">
-      &nbsp;
       <a href="https://git-scm.com/" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/dnth/logos/master/logos/git.svg" 
       height="35" /></a>
+      &nbsp;
+      <a href="https://jupyter.org/" target="blank"><img align="center" 
+      src="https://raw.githubusercontent.com/dnth/logos/master/logos/jupyter.svg" 
+      height="35" /></a>
+      &nbsp;
  </p>
+
+
 
 
 ## Data
