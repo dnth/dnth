@@ -30,6 +30,10 @@
       <a href="https://optuna.org/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png"
       height="35" /></a>
+      &nbsp;
+      <a href="https://github.com/Microsoft/nni" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/microsoft/nni/master/docs/img/nni_logo.png"
+      height="35" /></a>
 
 </p>
  
