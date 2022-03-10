@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dickson-neoh-3a6984b8/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="adam pithewan" height="25" width="40" /></a>
  <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
