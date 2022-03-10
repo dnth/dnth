@@ -73,13 +73,13 @@
       alt="adam pithewan" height="25" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar-square.svg"
-      alt="adam pithewan" height="25" width="40" /></a>
+      alt="adam pithewan" height="35" width="40" /></a>
  <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="35" width="40" /></a>
    <a href="https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="35" width="40" /></a>
   <a href="https://dicksonneoh.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
       alt="adampithewan" height="35" width="120" /></a>
