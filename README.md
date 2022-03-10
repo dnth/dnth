@@ -58,6 +58,10 @@
       src="https://pngimg.com/uploads/intel/intel_PNG12.png" 
       height="35" /></a>
       &nbsp;
+      <a href="https://coral.ai/" target="blank"><img align="center" 
+      src="https://pi3g.com/wp-content/uploads/2020/06/Coral_Logo_832x267_RGB.png" 
+      height="35" /></a>
+      &nbsp;
 </p>
  
 
