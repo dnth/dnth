@@ -54,6 +54,9 @@
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"
       height="35" /></a>
 &nbsp;
+<a href="https://github.com/kivy/kivy" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png"
+      height="35" /></a>
  </p>
 
 
