@@ -20,6 +20,12 @@
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" 
       height="35" width="40" /></a>
 
+<a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
+      src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
+      height="35" /></a>
+      
+
+
  </p>
 
 ### Database
