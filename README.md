@@ -76,7 +76,7 @@
       alt="adam pithewan" height="35" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Dickson-Neoh" target="blank"><img align="center"
       src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4"
-      alt="adam pithewan" height="35" width="40" /></a>
+      alt="adam pithewan" height="35" width="50" /></a>
  <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="35" width="40" /></a>
