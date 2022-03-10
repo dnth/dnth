@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/fastai/master/docs_src/images/company_logo_big.png"
-      height="35" width="120" /></a>
+      height="35" width="40" /></a>
  </p>
 
 ### Database
