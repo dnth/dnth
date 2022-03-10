@@ -38,10 +38,14 @@
       <a href="https://github.com/hyperopt/hyperopt" target="blank"><img align="center"
       src="https://i.postimg.cc/TPmffWrp/hyperopt-new.png"
       height="35" /></a>
-
 </p>
  
-
+## Experiment Management
+<p align="left">
+      <a href="https://wandb.ai/site" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/wandb/client/master/.github/wb-logo-lightbg.png"
+      height="35" /></a>
+</p>
 
 ## Model Deployment
 <p align="left">
