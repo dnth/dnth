@@ -11,13 +11,9 @@
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/fastai/master/docs_src/images/company_logo_big.png"
       height="35" width="40" /></a>
-
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg"
       height="35" /></a>
-      
-      
-      
 <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" 
       height="35" width="40" /></a>
