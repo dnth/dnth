@@ -50,6 +50,10 @@
       src="http://content.arduino.cc/brand/arduino-color.svg" 
       height="35" /></a>
       &nbsp;
+      <a href="https://www.raspberrypi.com/" target="blank"><img align="center" 
+      src="http://mastersofmedia.hum.uva.nl/wp-content/uploads/2014/09/raspberry_logo.png" 
+      height="35" /></a>
+      &nbsp;
 </p>
  
 
