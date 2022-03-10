@@ -17,7 +17,7 @@
       height="35" /></a>
       
 <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" 
+      src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
       height="35" width="40" /></a>
 
 <a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
