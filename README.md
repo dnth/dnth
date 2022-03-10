@@ -90,22 +90,33 @@
 ## Data
 
 <p align="left">
-<a href="https://github.com/apache/spark" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg"
-      height="35" /></a>
-&nbsp;
-<a href="https://firebase.google.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"
-      height="35" /></a>
-&nbsp;
-<a href="https://github.com/grafana/grafana" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg"
-      height="35" /></a>
-&nbsp;
-<a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
-      height="35" /></a>
- </p>
+      <a href="https://github.com/apache/spark" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg"
+            height="35" /></a>
+      &nbsp;
+      <a href="https://firebase.google.com/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"
+            height="35" /></a>
+      &nbsp;
+      <a href="https://github.com/grafana/grafana" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg"
+            height="35" /></a>
+      &nbsp;
+      <a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
+            height="35" /></a>
+      
+      &nbsp;
+      <a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
+            height="35" /></a>
+      
+      &nbsp;
+      <a href="https://github.com/heartexlabs/label-studio" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/heartexlabs/label-studio/master/images/ls_github_header.png"
+            height="35" /></a>
+
+</p>
 
 
 
