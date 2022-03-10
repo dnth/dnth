@@ -23,12 +23,16 @@
 <a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
       height="35" /></a>
-      
-
-
  </p>
 
-### Database
+### Data
+
+<p align="left">
+<a href="https://github.com/apache/spark" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg"
+      height="35"/></a>
+ </p>
+
 
 ### Front end
 
