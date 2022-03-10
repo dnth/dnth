@@ -6,7 +6,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth&langs_count=8&theme=prussian&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) |
 
 # Skills
-## Deep Learning
+## Deep Learning Frameworks
 <p align="left">
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fdatascienceweek.org%2Fwp-content%2Fuploads%2F2019%2F12%2Ffast.ai_.jpg%3Fssl%3D1&f=1&nofb=1"
@@ -23,8 +23,12 @@
 <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
       height="35" /></a>
-&nbsp;
-<a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
+
+
+## Model Deployment
+<p align="left">
+      &nbsp;
+      <a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
       height="35" /></a>
  </p>
