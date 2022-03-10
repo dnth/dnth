@@ -15,9 +15,11 @@
 <a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg"
       height="35" /></a>
+&nbsp;
 <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
       height="35" /></a>
+&nbsp;
 <a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
       height="35" /></a>
