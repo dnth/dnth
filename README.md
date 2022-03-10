@@ -45,7 +45,15 @@
       <a href="https://wandb.ai/site" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/wandb/client/master/.github/wb-logo-lightbg.png"
       height="35" /></a>
+      &nbsp;
+      <a href="https://www.comet.ml/site/" target="blank"><img align="center"
+      src="https://avatars.githubusercontent.com/u/31487821?s=200&v=4"
+      height="35" /></a>
 </p>
+
+
+
+
 
 ## Model Deployment
 <p align="left">
