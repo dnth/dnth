@@ -32,6 +32,15 @@
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
       height="35" /></a>
  </p>
+ 
+## Software Engineering
+<p align="left">
+      &nbsp;
+      <a href="https://git-scm.com/" target="blank"><img align="center" 
+      src="https://raw.githubusercontent.com/dnth/logos/master/logos/git.svg" 
+      height="35" /></a>
+ </p>
+
 
 ## Data
 
