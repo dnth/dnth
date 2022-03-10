@@ -144,6 +144,10 @@
             src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
             height="35" /></a>
       &nbsp;
+      <a href="https://github.com/openvinotoolkit/cvat" target="blank"><img align="center"
+            src="https://neovision.fr/wp-content/uploads/2021/05/CVAT-Logo-complet-768x212.png"
+            height="35" /></a>
+      &nbsp;
       <a href="https://github.com/heartexlabs/label-studio" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/heartexlabs/label-studio/master/images/ls_github_header.png"
             height="35" /></a>
