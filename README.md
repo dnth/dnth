@@ -47,7 +47,7 @@
       height="35" /></a>
       &nbsp;
       <a href="https://www.comet.ml/site/" target="blank"><img align="center"
-      src="https://avatars.githubusercontent.com/u/31487821?s=200&v=4"
+      src="https://www.comet.ml/images/logo_comet_light.png"
       height="35" /></a>
       &nbsp;
       <a href="https://www.tensorflow.org/tensorboard/" target="blank"><img align="center"
