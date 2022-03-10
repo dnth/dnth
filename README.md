@@ -161,7 +161,7 @@
 
 <p align="left">
 <a href="https://github.com/flutter/flutter" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"
+      src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png"
       height="35" /></a>
 &nbsp;
 <a href="https://github.com/kivy/kivy" target="blank"><img align="center"
