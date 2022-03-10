@@ -35,8 +35,7 @@
 <a href="https://firebase.google.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"
       height="35" /></a>
- </p>
- &nbsp;
+&nbsp;
 <a href="https://github.com/grafana/grafana" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg"
       height="35" /></a>
