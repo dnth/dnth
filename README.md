@@ -38,7 +38,14 @@
       <a href="https://github.com/onnx/onnx" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX_logo_main.png" 
       height="35" /></a>
+      &nbsp;
+      <a href="https://www.tensorflow.org/lite" target="blank"><img align="center" 
+      src="https://miro.medium.com/max/1200/1*xjsEPItNww_khr8o2me-xg.png" 
+      height="35" /></a>
  </p>
+ 
+ 
+
  
 
  
@@ -80,6 +87,7 @@
       src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
       height="35" /></a>
  </p>
+
 
 
 
