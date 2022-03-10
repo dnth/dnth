@@ -6,7 +6,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth&langs_count=8&theme=prussian&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) |
 
 # Skills
-### Deep Learning
+## Deep Learning
 <p align="left">
 <a href="https://github.com/fastai/fastai" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/dnth/fastai/master/docs_src/images/company_logo_big.png"
