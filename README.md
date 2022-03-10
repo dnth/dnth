@@ -34,6 +34,10 @@
       <a href="https://github.com/Microsoft/nni" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/microsoft/nni/master/docs/img/nni_logo.png"
       height="35" /></a>
+      &nbsp;
+      <a href="https://github.com/hyperopt/hyperopt" target="blank"><img align="center"
+      src="https://i.postimg.cc/TPmffWrp/hyperopt-new.png"
+      height="35" /></a>
 
 </p>
  
