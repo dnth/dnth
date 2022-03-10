@@ -31,8 +31,12 @@
       src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
       height="35" /></a>
       &nbsp;
-      <a href="https://developer.nvidia.com/tensorrt" target="blank"><img align="center" 
+      <a href="https://github.com/NVIDIA/TensorRT" target="blank"><img align="center" 
       src="https://developer.nvidia.com/blog/wp-content/uploads/2020/04/tensorrt-logo-625x290.png" 
+      height="35" /></a>
+      &nbsp;
+      <a href="https://github.com/onnx/onnx" target="blank"><img align="center" 
+      src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX_logo_main.png" 
       height="35" /></a>
  </p>
  
