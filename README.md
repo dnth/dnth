@@ -7,6 +7,11 @@
 
 # Skills
 ### Deep Learning
+<p align="left">
+<a href="https://dicksonneoh.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
+      alt="adampithewan" height="35" width="120" /></a>
+ </p>
 
 ### Database
 
