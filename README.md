@@ -174,24 +174,24 @@
 
 # Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dickson-neoh-3a6984b8/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="25" width="40" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ" target="blank"><img align="center"
-      src="https://www.toptools4learning.com/wp-content/uploads/2018/09/google-scholar-png.png"
-      alt="adam pithewan" height="35" /></a>
-<a href="https://www.researchgate.net/profile/Dickson-Neoh" target="blank"><img align="center"
-      src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4"
-      alt="adam pithewan" height="35" width="50" /></a>
- <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="35" width="40" /></a>
-   <a href="https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="adampithewan" height="35" width="40" /></a>
-  <a href="https://dicksonneoh.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
-      alt="adampithewan" height="45" /></a>
+      <a href="https://www.linkedin.com/in/dickson-neoh-3a6984b8/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="adam pithewan" height="25" width="40" /></a>
+      <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="adampithewan" height="35" width="40" /></a>
+      <a href="https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="adampithewan" height="35" width="40" /></a>
+      <a href="https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ" target="blank"><img align="center"
+            src="https://www.ziyen.com/wp-content/uploads/2020/11/Google-Scholar-300x150.png"
+            alt="adam pithewan" height="50" /></a>
+      <a href="https://www.researchgate.net/profile/Dickson-Neoh" target="blank"><img align="center"
+            src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4"
+            alt="adam pithewan" height="35" width="50" /></a>
+      <a href="https://dicksonneoh.com/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
+            alt="adampithewan" height="45" /></a>
 </p>
 
 
