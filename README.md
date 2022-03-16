@@ -172,7 +172,7 @@
 
 
 
-# Connect with me
+# 📞 Connect with me
 <p align="left">
       <a href="https://www.linkedin.com/in/dickson-neoh-3a6984b8/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
