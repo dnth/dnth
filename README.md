@@ -1,4 +1,5 @@
 # Hi there! I'm Dickson Neoh 👋
+![image](https://raw.githubusercontent.com/dnth/dnth/main/github-header-image.png)
 
 ![Dickson's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dnth&theme=github&bg_color=172f44&line=a2c3e0&point=3192e4)
 | ![Dickson's github stats](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&theme=prussian)             | ![Dickson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnth&theme=prussian)                                                                                                           |
