@@ -170,7 +170,7 @@
 &nbsp;
 <a href="https://www.gradio.app/" target="blank"><img align="center"
       src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
-      height="35" /></a>
+      height="45" /></a>
  </p>
 
 
