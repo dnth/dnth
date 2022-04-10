@@ -167,6 +167,10 @@
 <a href="https://github.com/kivy/kivy" target="blank"><img align="center"
       src="https://cdn-images-1.medium.com/max/1200/1*NfDLXFFLp79soRwo7nPifQ.png"
       height="35" /></a>
+&nbsp;
+<a href="https://www.gradio.app/" target="blank"><img align="center"
+      src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
+      height="35" /></a>
  </p>
 
 
