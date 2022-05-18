@@ -184,6 +184,8 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+      <a href="https://github.com/dnth" target="blank"><img align="center"
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA" target="blank"><img align="center"
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a href="https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ" target="blank"><img align="center"
@@ -196,4 +198,5 @@
             src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
             alt="dnth" height="45" /></a>
 </p>
+
 
