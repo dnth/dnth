@@ -181,8 +181,7 @@
 # 📞 Connect with me
 <p align="left">
       <a href="https://www.linkedin.com/in/dickson-neoh/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="dnth" height="25" width="40" /></a>
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/dnth/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="dnth" height="35" width="40" /></a>
