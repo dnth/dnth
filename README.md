@@ -199,4 +199,7 @@
             alt="dnth" height="45" /></a>
 </p>
 
+# ❤️ Support Me
+If you like the contents I'm producing, support me in keeping the lights on to bring you more helpful contents.
 
+<a href="https://www.buymeacoffee.com/dicksonneoh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
