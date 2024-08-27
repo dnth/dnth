@@ -48,11 +48,13 @@ I'm a passionate Machine Learning Engineer and researcher with expertise in deep
 [![CVAT](https://img.shields.io/badge/CVAT-0000FF?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/openvinotoolkit/cvat)
 [![Label Studio](https://img.shields.io/badge/Label_Studio-FF4F64?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADFSURBVHgBlZEBEYMwDEVT8IAHOEACSKg4QMU4qASkE0ACEsACSEECEmZpuq3l2O/u+BLa/6BpErTWYA1gEhtBSglS8nfODd57GGPAWgv6iGGz3uMRXMo3Y/xeFIq1nqVaA0cBhpVXC1lBRKozEteBqHgT0JmZqsV3gG/Q8UEwmlhsEgGIMiYwDC+45mDw+QYB9QPvLbYjA0hn+jXwxtyXuSDgEQJPLO7LJmm6SXPLQRzx8LDHcdrjuRwmdm5xP8TrB0+vC4OSfZCxPWXRGoEfkW9CJSQ0XPYAAAAASUVORK5CYII=)](https://github.com/heartexlabs/label-studio)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/postgres/postgres)
+[![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)](https://github.com/iterative/dvc)
 
 ### Frontend
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter)
 [![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kivy/kivy)
 [![Gradio](https://img.shields.io/badge/Gradio-FFA000?style=for-the-badge&logo=gradio&logoColor=white)](https://github.com/gradio-app/gradio)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/streamlit/streamlit)
 
 ## 📞 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dickson-neoh/)
