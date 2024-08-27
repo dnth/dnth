@@ -1,206 +1,67 @@
-![profile-banner](https://media.licdn.com/dms/image/D4E16AQFfYL90A--WFQ/profile-displaybackgroundimage-shrink_350_1400/0/1680252410415?e=1706140800&v=beta&t=hP4B7hwGUs_XUYyDhSQ_m7QFXc2kZimfAwudcg0UE30)
+# Dickson Neoh
 
-![Dickson's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dnth&theme=github&bg_color=172f44&line=a2c3e0&point=3192e4)
+## 👨‍💻 About Me
+I'm a passionate Machine Learning Engineer and researcher with expertise in deep learning, computer vision, and embedded AI. My work focuses on developing and deploying efficient AI solutions across various platforms.
 
-| ![Dickson's github stats](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&theme=prussian&count_private=true&hide=stars&card_width=445)             | ![Dickson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnth&theme=prussian)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnth&langs_count=8&theme=prussian&layout=compact&card_width=445) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnth&show_icons=true&locale=en&count_private=true&hide=stars&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) |
+## 🛠️ Tech Stack
 
+### Deep Learning Frameworks
+[![fastai](https://img.shields.io/badge/fastai-00A98F?style=for-the-badge&logo=fastai&logoColor=white)](https://github.com/fastai/fastai)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/keras-team/keras)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/pytorch/pytorch)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/tensorflow/tensorflow)
 
+### Hyperparameter Optimization
+[![Optuna](https://img.shields.io/badge/Optuna-0095D5?style=for-the-badge&logo=optuna&logoColor=white)](https://github.com/optuna/optuna)
+[![NNI](https://img.shields.io/badge/NNI-0062AD?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/nni)
+[![Hyperopt](https://img.shields.io/badge/Hyperopt-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/hyperopt/hyperopt)
 
-# 🛠️ Skills
-## Deep Learning Frameworks
-<p align="left">
-<a href="https://github.com/fastai/fastai" target="blank"><img align="center"
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fdatascienceweek.org%2Fwp-content%2Fuploads%2F2019%2F12%2Ffast.ai_.jpg%3Fssl%3D1&f=1&nofb=1"
-      height="40" /></a>
-&nbsp;
-<a href="hhttps://github.com/keras-team/keras" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg"
-      height="35" /></a>
-&nbsp;
-<a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg"
-      height="35" /></a>
-&nbsp;
-<a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
-      height="35" /></a>
-</p>
+### Experiment Management
+[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://github.com/wandb/wandb)
+[![Comet ML](https://img.shields.io/badge/Comet_ML-000000?style=for-the-badge&logo=comet&logoColor=white)](https://github.com/comet-ml/comet-ml)
+[![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/tensorflow/tensorboard)
 
-## Hyperparameter Optimization
-<p align="left">
-      <a href="https://optuna.org/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png"
-      height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/Microsoft/nni" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/microsoft/nni/master/docs/img/nni_logo.png"
-      height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/hyperopt/hyperopt" target="blank"><img align="center"
-      src="https://i.postimg.cc/TPmffWrp/hyperopt-new.png"
-      height="35" /></a>
-</p>
- 
-## Experiment Management
-<p align="left">
-      <a href="https://wandb.ai/site" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/wandb/client/master/.github/wb-logo-lightbg.png"
-      height="35" /></a>
-      &nbsp;
-      <a href="https://www.comet.ml/site/" target="blank"><img align="center"
-      src="https://www.comet.ml/images/logo_comet_light.png"
-      height="35" /></a>
-      &nbsp;
-      <a href="https://www.tensorflow.org/tensorboard/" target="blank"><img align="center"
-      src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png"
-      height="35" /></a>
-</p>
+### Model Deployment
+[![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/openvinotoolkit/openvino)
+[![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/TensorRT)
+[![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)](https://github.com/onnx/onnx)
+[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite)
 
+### Hardware
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/arduino/Arduino)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/raspberrypi)
+[![Intel Neural Compute Stick](https://img.shields.io/badge/Intel_NCS-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/movidius/ncsdk)
+[![Google Coral](https://img.shields.io/badge/Google_Coral-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google-coral)
 
+### Software Engineering
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git/git)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/jupyter/jupyter)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/microsoft/vscode)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker)
 
+### Data
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](https://github.com/apache/spark)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/firebase/)
+[![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://github.com/grafana/grafana)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://github.com/influxdata/influxdb)
+[![CVAT](https://img.shields.io/badge/CVAT-0000FF?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/openvinotoolkit/cvat)
+[![Label Studio](https://img.shields.io/badge/Label_Studio-FF4F64?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADFSURBVHgBlZEBEYMwDEVT8IAHOEACSKg4QMU4qASkE0ACEsACSEECEmZpuq3l2O/u+BLa/6BpErTWYA1gEhtBSglS8nfODd57GGPAWgv6iGGz3uMRXMo3Y/xeFIq1nqVaA0cBhpVXC1lBRKozEteBqHgT0JmZqsV3gG/Q8UEwmlhsEgGIMiYwDC+45mDw+QYB9QPvLbYjA0hn+jXwxtyXuSDgEQJPLO7LJmm6SXPLQRzx8LDHcdrjuRwmdm5xP8TrB0+vC4OSfZCxPWXRGoEfkW9CJSQ0XPYAAAAASUVORK5CYII=)](https://github.com/heartexlabs/label-studio)
 
+### Frontend
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter)
+[![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kivy/kivy)
+[![Gradio](https://img.shields.io/badge/Gradio-FFA000?style=for-the-badge&logo=gradio&logoColor=white)](https://github.com/gradio-app/gradio)
 
-## Model Deployment
-<p align="left">
-      <a href="https://github.com/openvinotoolkit/openvino" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/NVIDIA/TensorRT" target="blank"><img align="center" 
-      src="https://developer.nvidia.com/blog/wp-content/uploads/2020/04/tensorrt-logo-625x290.png" 
-      height="55" /></a>
-      &nbsp;
-      <a href="https://github.com/onnx/onnx" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX_logo_main.png" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://www.tensorflow.org/lite" target="blank"><img align="center" 
-      src="https://miro.medium.com/max/1200/1*xjsEPItNww_khr8o2me-xg.png" 
-      height="45" /></a>
- </p>
- 
- ## Hardware 
-<p align="left">
-      <a href="https://www.arduino.cc/" target="blank"><img align="center" 
-      src="http://content.arduino.cc/brand/arduino-color.svg" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://www.raspberrypi.com/" target="blank"><img align="center" 
-      src="http://mastersofmedia.hum.uva.nl/wp-content/uploads/2014/09/raspberry_logo.png" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://www.intel.com/content/www/us/en/developer/tools/neural-compute-stick/overview.html" target="blank"><img align="center" 
-      src="https://pngimg.com/uploads/intel/intel_PNG12.png" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://coral.ai/" target="blank"><img align="center" 
-      src="https://pi3g.com/wp-content/uploads/2020/06/Coral_Logo_832x267_RGB.png" 
-      height="35" /></a>
-      &nbsp;
-</p>
- 
+## 📞 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dickson-neoh/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dicksonneoh7)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dnth)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Dickson-Neoh)
+[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dicksonneoh.com/)
 
- 
-
- 
-## Software Engineering
-<p align="left">
-      <a href="https://git-scm.com/" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/dnth/logos/master/logos/git.svg" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://jupyter.org/" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/dnth/logos/master/logos/jupyter.svg" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://code.visualstudio.com/" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/auchenberg/vscode-logo-svg/master/vscode-logo.svg" 
-      height="35" /></a>
-      &nbsp;
-      <a href="https://www.docker.com/" target="blank"><img align="center" 
-      src="https://s3-us-west-1.amazonaws.com/umbrella-blog-uploads/wp-content/uploads/2016/03/docker-logo.jpg" 
-      height="35" /></a>
-      &nbsp;
- </p>
-
-
-
-
-## Data
-
-<p align="left">
-      <a href="https://github.com/apache/spark" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg"
-            height="35" /></a>
-      &nbsp;
-      <a href="https://firebase.google.com/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"
-            height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/grafana/grafana" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg"
-            height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/influxdata/influxdb" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg"
-            height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/openvinotoolkit/cvat" target="blank"><img align="center"
-            src="https://neovision.fr/wp-content/uploads/2021/05/CVAT-Logo-complet-768x212.png"
-            height="35" /></a>
-      &nbsp;
-      <a href="https://github.com/heartexlabs/label-studio" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/heartexlabs/label-studio/master/images/ls_github_header.png"
-            height="35" /></a>
-
-</p>
-
-
-
-
-## Frontend
-
-<p align="left">
-<a href="https://github.com/flutter/flutter" target="blank"><img align="center"
-      src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png"
-      height="35" /></a>
-&nbsp;
-<a href="https://github.com/kivy/kivy" target="blank"><img align="center"
-      src="https://cdn-images-1.medium.com/max/1200/1*NfDLXFFLp79soRwo7nPifQ.png"
-      height="35" /></a>
-&nbsp;
-<a href="https://www.gradio.app/" target="blank"><img align="center"
-      src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
-      height="45" /></a>
- </p>
-
-
-
-
-# 📞 Connect with me
-<p align="left">
-      <a href="https://www.linkedin.com/in/dickson-neoh/" target="blank"><img align="center"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://twitter.com/dicksonneoh7" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-      <a href="https://github.com/dnth" target="blank"><img align="center"
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA" target="blank"><img align="center"
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ" target="blank"><img align="center"
-            src="https://www.ziyen.com/wp-content/uploads/2020/11/Google-Scholar-300x150.png"
-            alt="dnth" height="50" /></a>
-      <a href="https://www.researchgate.net/profile/Dickson-Neoh" target="blank"><img align="center"
-            src="https://avatars0.githubusercontent.com/u/1073651?s=200&v=4"
-            alt="dnth" height="35" width="50" /></a>
-      <a href="https://dicksonneoh.com/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/dnth/dnth.github.io/main/static/images/site-navigation/logo_dn.png"
-            alt="dnth" height="45" /></a>
-</p>
-
-# ❤️ Support Me
-If you like the contents I'm producing, support me in keeping the lights on to bring you more helpful contents.
+## ❤️ Support Me
+If you find my work helpful, consider supporting me to keep creating valuable content:
 
 <a href="https://www.buymeacoffee.com/dicksonneoh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
