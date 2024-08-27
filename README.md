@@ -26,6 +26,7 @@ I'm a passionate Machine Learning Engineer and researcher with expertise in deep
 [![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/TensorRT)
 [![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)](https://github.com/onnx/onnx)
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite)
+[![DeepSparse](https://img.shields.io/badge/DeepSparse-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADFSURBVHgBlZEBEYMwDEVT8IAHOEACSKg4QMU4qASkE0ACEsACSEECEmZpuq3l2O/u+BLa/6BpErTWYA1gEhtBSglS8nfODd57GGPAWgv6iGGz3uMRXMo3Y/xeFIq1nqVaA0cBhpVXC1lBRKozEteBqHgT0JmZqsV3gG/Q8UEwmlhsEgGIMiYwDC+45mDw+QYB9QPvLbYjA0hn+jXwxtyXuSDgEQJPLO7LJmm6SXPLQRzx8LDHcdrjuRwmdm5xP8TrB0+vC4OSfZCxPWXRGoEfkW9CJSQ0XPYAAAAASUVORK5CYII=)](https://github.com/neuralmagic/deepsparse)
 
 ### Hardware
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/arduino/Arduino)
@@ -46,6 +47,7 @@ I'm a passionate Machine Learning Engineer and researcher with expertise in deep
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://github.com/influxdata/influxdb)
 [![CVAT](https://img.shields.io/badge/CVAT-0000FF?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/openvinotoolkit/cvat)
 [![Label Studio](https://img.shields.io/badge/Label_Studio-FF4F64?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADFSURBVHgBlZEBEYMwDEVT8IAHOEACSKg4QMU4qASkE0ACEsACSEECEmZpuq3l2O/u+BLa/6BpErTWYA1gEhtBSglS8nfODd57GGPAWgv6iGGz3uMRXMo3Y/xeFIq1nqVaA0cBhpVXC1lBRKozEteBqHgT0JmZqsV3gG/Q8UEwmlhsEgGIMiYwDC+45mDw+QYB9QPvLbYjA0hn+jXwxtyXuSDgEQJPLO7LJmm6SXPLQRzx8LDHcdrjuRwmdm5xP8TrB0+vC4OSfZCxPWXRGoEfkW9CJSQ0XPYAAAAASUVORK5CYII=)](https://github.com/heartexlabs/label-studio)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/postgres/postgres)
 
 ### Frontend
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter)
