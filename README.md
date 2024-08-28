@@ -1,4 +1,4 @@
-# Dickson Neoh
+![banner](assets/banner.png)
 
 ## 👨‍💻 About Me
 I'm a passionate Machine Learning Engineer and researcher with expertise in deep learning, computer vision, and embedded AI. My work focuses on developing and deploying efficient AI solutions across various platforms.
