@@ -1,7 +1,7 @@
 ![banner](assets/banner.png)
 
 ## 👨‍💻 About Me
-I'm a passionate full stack deep learning scientist. I wrangle deep learning models so you don’t have to.
+I wrangle deep learning models so you don’t have to.
 I help companies design end-to-end deep learning solutions and deploy them into production.
 
 ## 🛠️ Tech Stack
