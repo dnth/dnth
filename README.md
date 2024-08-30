@@ -1,7 +1,8 @@
 ![banner](assets/banner.png)
 
 ## 👨‍💻 About Me
-I'm a passionate Machine Learning Engineer and researcher with expertise in deep learning, computer vision, and embedded AI. My work focuses on developing and deploying efficient AI solutions across various platforms.
+I'm a passionate full stack deep learning scientist. I wrangle deep learning models so you don’t have to.
+I help companies design end-to-end deep learning solutions and deploy them into production.
 
 ## 🛠️ Tech Stack
 
