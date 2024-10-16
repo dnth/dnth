@@ -145,6 +145,32 @@ Frontend:
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Dickson-Neoh)
 [![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dicksonneoh.com/)
 
+## 📈 Github Stats
+
+<table>
+  <tr>
+    <th colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnth&theme=aura" alt="GitHub Profile Summary">
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnth&theme=aura" alt="Top Languages by Repo">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dnth&theme=aura" alt="Top Languages by Commit">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dnth&theme=aura" alt="Stats">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dnth&theme=aura&utcOffset=8" alt="Commits (UTC +8.00)">
+    </td>
+  </tr>
+</table>
+
 ## ❤️ Support Me
 If you find my work helpful, consider supporting me to keep creating valuable content:
 
