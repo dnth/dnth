@@ -1,7 +1,6 @@
 ![banner](assets/banner.png)
 
 
-
 <div align="center">
 <p>
 <h3>🚀 I make models small, fast, and efficient. 💨</h3>
@@ -19,6 +18,12 @@
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">X</a>
     ·
     <a href="https://dicksonneoh.com/#about" target="_blank" rel="noopener noreferrer">About</a>
+    <br>
+    <br>
+    <a href="https://github.com/dnth"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdnth&labelColor=%23697689&countColor=%23d9e3f0" /></a>
+    <a href="https://aktive.kerolloz.dev/malaysia/dnth?label=&color=blue&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Malaysia" target="_blank" rel="noopener noreferrer">
+        <img src="https://aktive.kerolloz.dev/malaysia/dnth?label=&color=gray&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Malaysia" alt="Ranked In Malaysia">
+    </a>
 </div>
 
 ## ⭐ Featured Projects
