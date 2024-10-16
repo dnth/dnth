@@ -15,9 +15,9 @@
     <a href="https://dicksonneoh.com/blog" target="_blank" rel="noopener noreferrer">Blogs</a>
     ·
     <a href="https://linkedin.com/in/dickson-neoh/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    .
+    ·
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">X</a>
-    .
+    ·
     <a href="https://dicksonneoh.com/#about" target="_blank" rel="noopener noreferrer">About</a>
 </div>
 
