@@ -18,7 +18,7 @@
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">X</a>
 </div>
 
-## Featured Projects
+## ⭐ Featured Projects
 
 <table>
   <tr>
