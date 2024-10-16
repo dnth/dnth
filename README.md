@@ -9,14 +9,15 @@
     <br />
     <a href="https://dicksonneoh.com" target="_blank" rel="noopener noreferrer"><strong>Explore my webpage »</strong></a>
     <br />
-    <br />
     <a href="https://dicksonneoh.com/portfolio/" target="_blank" rel="noopener noreferrer">Projects</a>
     ·
-    <a href="https://dicksonneoh.com/blog" target="_blank" rel="noopener noreferrer">Blog</a>
+    <a href="https://dicksonneoh.com/blog" target="_blank" rel="noopener noreferrer">Blogs</a>
     ·
     <a href="https://linkedin.com/in/dickson-neoh/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     .
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">X</a>
+    .
+    <a href="https://dicksonneoh.com/#about" target="_blank" rel="noopener noreferrer">About</a>
 </div>
 
 ## ⭐ Featured Projects
