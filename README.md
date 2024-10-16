@@ -22,45 +22,45 @@
 
 <table>
   <tr>
-    <td width="40%">
+    <td width="30%">
       <a href="https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/" target="_blank" rel="noopener noreferrer">
         <img src="https://dicksonneoh.com/images/portfolio/supercharge_your_pytorch_image_models/thumbnail.gif" alt="Supercharge Your PyTorch Image Models" width="100%">
       </a>
     </td>
-    <td width="60%">
+    <td width="70%">
       <p><a href="https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/" target="_blank" rel="noopener noreferrer">Supercharge Your PyTorch Image Models: Bag of Tricks to 8x Faster Inference with ONNX Runtime & Optimizations.</a></p>
       <p>📅 September 30, 2024</p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
+    <td width="30%">
       <a href="https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/" target="_blank" rel="noopener noreferrer">
         <img src="https://dicksonneoh.com/images/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/thumbnail.gif" alt="Supercharge Your PyTorch Image Models" width="100%">
       </a>
     </td>
-    <td width="60%">
+    <td width="70%">
       <p><a href="https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/" target="_blank" rel="noopener noreferrer">PyTorch at the Edge: Deploying Over 964 TIMM Models on Android with TorchScript and Flutter.</a></p>
       <p>📅 February 7, 2023</p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
+    <td width="30%">
       <a href="https://dicksonneoh.com/portfolio/supercharging_yolov5_180_fps_cpu/" target="_blank" rel="noopener noreferrer">
         <img src="https://dicksonneoh.com/images/portfolio/supercharging_yolov5/thumbnail.gif" alt="Supercharge Your PyTorch Image Models" width="100%">
       </a>
     </td>
-    <td width="60%">
+    <td width="70%">
       <p><a href="https://dicksonneoh.com/portfolio/supercharging_yolov5_180_fps_cpu/" target="_blank" rel="noopener noreferrer">Supercharging YOLOv5: How I Got 182.4 FPS Inference Without a GPU.</a></p>
       <p>📅 June 7, 2022</p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
+    <td width="30%">
       <a href="https://dicksonneoh.com/portfolio/how_to_10x_your_od_model_and_deploy_50fps_cpu/" target="_blank" rel="noopener noreferrer">
         <img src="https://dicksonneoh.com/images/portfolio/how_to_10x_your_od_model_and_deploy_50fps_cpu/thumbnail.gif" alt="Supercharge Your PyTorch Image Models" width="100%">
       </a>
     </td>
-    <td width="60%">
+    <td width="70%">
       <p><a href="https://dicksonneoh.com/portfolio/how_to_10x_your_od_model_and_deploy_50fps_cpu/" target="_blank" rel="noopener noreferrer">Faster than GPU: How to 10x your Object Detection Model and Deploy on CPU at 50+ FPS.</a></p>
       <p>📅 April 30, 2022</p>
     </td>
