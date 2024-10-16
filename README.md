@@ -18,6 +18,22 @@
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">X</a>
 </div>
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="40%">
+      <a href="https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/" target="_blank" rel="noopener noreferrer">
+        <img src="https://dicksonneoh.com/images/portfolio/supercharge_your_pytorch_image_models/thumbnail.gif" alt="Supercharge Your PyTorch Image Models" width="100%">
+      </a>
+    </td>
+    <td width="60%">
+      <p><a href="https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/" target="_blank" rel="noopener noreferrer">Supercharge Your PyTorch Image Models: Bag of Tricks to 8x Faster Inference with ONNX Runtime & Optimizations.</a></p>
+      <p>📅 September 30, 2024</p>
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Tech Stack
 
 Deep Learning Frameworks:
