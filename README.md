@@ -5,6 +5,7 @@
 <div align="center">
 <p>
 <h3>🚀 I make models small, fast, and efficient. 💨</h3>
+<h4>Fullstack computer vision engineer specializing in deploying models on edge devices for real-time inference.</h4>
 </p>
     <br />
     <a href="https://dicksonneoh.com" target="_blank" rel="noopener noreferrer"><strong>Explore my webpage »</strong></a>
