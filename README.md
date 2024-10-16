@@ -9,6 +9,7 @@
     <br />
     <a href="https://dicksonneoh.com" target="_blank" rel="noopener noreferrer"><strong>Explore my webpage »</strong></a>
     <br />
+    <br />
     <a href="https://dicksonneoh.com/portfolio/" target="_blank" rel="noopener noreferrer">Projects</a>
     ·
     <a href="https://dicksonneoh.com/blog" target="_blank" rel="noopener noreferrer">Blog</a>
