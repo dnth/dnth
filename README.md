@@ -27,6 +27,9 @@
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
+    <a href="https://www.buymeacoffee.com/dicksonneoh" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    </a>
 </div>
 
 ## ⭐ Featured Projects
@@ -172,18 +175,10 @@ Frontend:
   </tr>
 </table>
 
-## 📞 Connect with me
-I'm active on the following platforms:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dnth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dickson-neoh/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dicksonneoh7)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJckpaGYra_p9ixmEDvYARA)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBGCEskAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Dickson-Neoh)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dicksonneoh.com/)
 
 ## ❤️ Support Me
-If you find my work helpful, consider supporting me to keep creating valuable content:
+Creating free machine learning contents doesn't pay my bills. Support me in creating more free contents like these. Consider buying me a coffee. Your support means a lot to me.
+
 
 <a href="https://www.buymeacoffee.com/dicksonneoh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
