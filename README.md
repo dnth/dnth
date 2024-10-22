@@ -85,6 +85,11 @@
   </tr>
 </table>
 
+## 🚀 What I'm Building
+
+- [x.infer](https://github.com/dnth/x.infer) : Framework agnostic computer vision inference. Ever wanted to deploy new computer vision models without the hassle of learning new frameworks? This is for you!
+
+
 ## 🛠️ Tech Stack
 
 Deep Learning Frameworks:
