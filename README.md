@@ -90,6 +90,10 @@
 - [x.infer](https://github.com/dnth/x.infer) - Framework agnostic computer vision inference. Ever wanted to deploy new computer vision models without the hassle of learning new frameworks? This is for you!
 - [pgmmr](https://github.com/dnth/postgresql-multimodal-retrieval) - Vector/Hybrid Search & Retrieval on PostgreSQL database your favorite Vision Language Model.
 
+I was listed in GitHub's trending developers list for x.infer! Thanks you for supporting my work!
+
+
+
 
 ## 🛠️ Tech Stack
 
