@@ -87,8 +87,8 @@
 
 ## 🚀 What I'm Building
 
-- [x.infer](https://github.com/dnth/x.infer)  ![badge](https://img.shields.io/github/stars/dnth/x.infer) - Framework agnostic computer vision inference. Ever wanted to deploy new computer vision models without the hassle of learning new frameworks? This is for you!
-- [x.retrieval](https://github.com/dnth/x.infer) ![badge](https://img.shields.io/github/stars/dnth/x.infer) - Evaluate your multimodal retrieval pipeline with any model.
+- [x.infer](https://github.com/dnth/x.infer)  ![badge](https://img.shields.io/github/stars/dnth/x.infer) - Framework agnostic computer vision inference. Run inference on any 1000+ models with 3 lines of code.
+- [x.retrieval](https://github.com/dnth/x.retrieval) ![badge](https://img.shields.io/github/stars/dnth/x.retrieval) - Evaluate your multimodal retrieval pipeline with any model.
 - [pgmmr](https://github.com/dnth/postgresql-multimodal-retrieval) - Vector/Hybrid Search & Retrieval on PostgreSQL database your favorite Vision Language Model.
 
 I was listed in GitHub's trending developers list (October 28th, 2024) for my open-source work x.infer! Thank you for supporting my work!
