@@ -104,10 +104,44 @@
 
 ## 🚀 What I'm Building
 
-- [x.infer](https://github.com/dnth/x.infer)  ![badge](https://img.shields.io/github/stars/dnth/x.infer) - Framework agnostic computer vision inference. Run inference on any 1000+ models with 3 lines of code.
-- [x.retrieval](https://github.com/dnth/x.retrieval) ![badge](https://img.shields.io/github/stars/dnth/x.retrieval) - Evaluate your multimodal retrieval pipeline with any model.
-- [pgmmr](https://github.com/dnth/postgresql-multimodal-retrieval) - Vector/Hybrid Search & Retrieval on PostgreSQL database your favorite Vision Language Model.
-
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://github.com/dnth/x.infer" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/dnth/x.infer/refs/heads/main/assets/xinfer.jpg" alt="x.infer" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      Framework agnostic computer vision inference. Run inference on any 1000+ models with 3 lines of code.
+      <br>
+      <img src="https://img.shields.io/github/stars/dnth/x.infer" alt="GitHub stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <a href="https://github.com/dnth/x.retrieval" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/dnth/x.retrieval/refs/heads/main/assets/logo.png" alt="x.retrieval" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      Evaluate your multimodal retrieval pipeline with any model.
+      <br>
+      <img src="https://img.shields.io/github/stars/dnth/x.retrieval" alt="GitHub stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <a href="https://github.com/dnth/postgresql-multimodal-retrieval" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/dnth/postgresql-multimodal-retrieval/main/images/workflow.png" alt="pgmmr" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      Vector/Hybrid Search & Retrieval on PostgreSQL database your favorite Vision Language Model.
+      <br>
+      <img src="https://img.shields.io/github/stars/dnth/postgresql-multimodal-retrieval" alt="GitHub stars">
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
