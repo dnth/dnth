@@ -100,6 +100,18 @@
       <p>📅 October 28, 2024</p>
     </td>
   </tr>
+  <tr>
+    <td width="30%">
+      <a href="https://dicksonneoh.com/blog/world_top_scientist/" target="_blank" rel="noopener noreferrer">
+        <img src="https://dicksonneoh.com/images/blog/world_top_scientist/thumbnail.png" alt="Top 2% Scientists" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <p><a href="https://dicksonneoh.com/blog/world_top_scientist/" target="_blank" rel="noopener noreferrer">Celebrating a Milestone in the Top 2% of Global Scientists</a></p>
+      <p>Honored to be recognized among the top 2% of global scientists by Stanford University in 2023. Reflecting on my 10-year journey from academia to industry in AI/ML.</p>
+      <p>📅 November 17, 2023</p>
+    </td>
+  </tr>
 </table>
 
 ## 🚀 What I'm Building
