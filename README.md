@@ -85,11 +85,29 @@
   </tr>
 </table>
 
+## 📝 Featured Blogs
+
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://dicksonneoh.com/blog/i_made_it_github_trending/" target="_blank" rel="noopener noreferrer">
+        <img src="https://dicksonneoh.com/images/blog/i_made_it_to_github_trending/feature_image.gif" alt="GitHub Trending Developer" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <p><a href="https://dicksonneoh.com/blog/i_made_it_github_trending/" target="_blank" rel="noopener noreferrer">I Made It to GitHub Trending - My Open Source Journey</a></p>
+      <p>I was listed in GitHub's trending developers list for my open-source work on x.infer, a framework agnostic computer vision inference library. Thank you for supporting my work!</p>
+      <p>📅 October 28, 2024</p>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 What I'm Building
 
 - [x.infer](https://github.com/dnth/x.infer)  ![badge](https://img.shields.io/github/stars/dnth/x.infer) - Framework agnostic computer vision inference. Run inference on any 1000+ models with 3 lines of code.
 - [x.retrieval](https://github.com/dnth/x.retrieval) ![badge](https://img.shields.io/github/stars/dnth/x.retrieval) - Evaluate your multimodal retrieval pipeline with any model.
 - [pgmmr](https://github.com/dnth/postgresql-multimodal-retrieval) - Vector/Hybrid Search & Retrieval on PostgreSQL database your favorite Vision Language Model.
+
 
 I was listed in GitHub's trending developers list (October 28th, 2024) for my open-source work x.infer! Thank you for supporting my work!
 ![trending_developer](assets/trending_developer.png)
