@@ -109,10 +109,6 @@
 - [pgmmr](https://github.com/dnth/postgresql-multimodal-retrieval) - Vector/Hybrid Search & Retrieval on PostgreSQL database your favorite Vision Language Model.
 
 
-I was listed in GitHub's trending developers list (October 28th, 2024) for my open-source work x.infer! Thank you for supporting my work!
-![trending_developer](assets/trending_developer.png)
-
-
 
 ## 🛠️ Tech Stack
 
