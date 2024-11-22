@@ -181,6 +181,8 @@
       <a href="https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite"><img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
       <a href="https://github.com/neuralmagic/deepsparse"><img src="https://img.shields.io/badge/DeepSparse-702963?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADFSURBVHgBlZEBEYMwDEVT8IAHOEACSKg4QMU4qASkE0ACEsACSEECEmZpuq3l2O/u+BLa/6BpErTWYA1gEhtBSglS8nfODd57GGPAWgv6iGGz3uMRXMo3Y/xeFIq1nqVaA0cBhpVXC1lBRKozEteBqHgT0JmZqsV3gG/Q8UEwmlhsEgGIMiYwDC+45mDw+QYB9QPvLbYjA0hn+jXwxtyXuSDgEQJPLO7LJmm6SXPLQRzx8LDHcdrjuRwmdm5xP8TrB0+vC4OSfZCxPWXRGoEfkW9CJSQ0XPYAAAAASUVORK5CYII="/></a>
       <a href="https://github.com/bentoml/BentoML"><img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white"/></a>
+      <a href="https://github.com/ray-project/ray"><img src="https://img.shields.io/badge/Ray_Serve-028CF0?style=for-the-badge&logo=ray&logoColor=white"/></a>
+      <a href="https://github.com/triton-inference-server/server"><img src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
