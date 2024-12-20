@@ -143,6 +143,18 @@
   </tr>
   <tr>
     <td width="30%">
+      <a href="https://github.com/dnth/pgsql-search" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/dnth/pgsql-search/main/assets/logo.png" alt="pgsql-search" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      Multimodal Search and Retrieval from PostgreSQL database using Python.
+      <br>
+      <img src="https://img.shields.io/github/stars/dnth/pgsql-search" alt="GitHub stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <a href="https://github.com/dnth/postgresql-multimodal-retrieval" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/dnth/postgresql-multimodal-retrieval/main/images/workflow.png" alt="pgmmr" width="100%">
       </a>
