@@ -131,6 +131,18 @@
   </tr>
   <tr>
     <td width="30%">
+      <a href="https://github.com/dnth/active-vision" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/dnth/active-vision/refs/heads/main/assets/logo.png" alt="active-vision" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      Active learning for computer vision.
+      <br>
+      <img src="https://img.shields.io/github/stars/dnth/active-vision" alt="GitHub stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <a href="https://github.com/dnth/x.retrieval" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/dnth/x.retrieval/refs/heads/main/assets/logo.png" alt="x.retrieval" width="100%">
       </a>
