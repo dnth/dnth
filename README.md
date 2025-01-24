@@ -22,7 +22,7 @@
     <br>
     <a href="https://dicksonneoh.com"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdnth&labelColor=green&countColor=%23d9e3f0" /></a>
     <a href="https://www.linkedin.com/in/dickson-neoh/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTguNSAxOEg1LjVWOGgzVjE4ek03IDYuNWExLjUgMS41IDAgMTEtMyAwIDEuNSAxLjUgMCAwMTMgMHpNMTguNSAxOGgtM3YtNS41YzAtMS40LS41LTIuNS0yLTIuNXMtMiAxLjEtMiAyLjVWMThoLTNWOGgzdjEuMmMuNS0uOCAxLjYtMS41IDMtMS41IDIuNSAwIDQgMS42IDQgNC41VjE4eiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://x.com/dicksonneoh7" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
